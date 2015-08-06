@@ -1,0 +1,6 @@
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\bin\WcfWindowsService.dll.config
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\bin\WcfWindowsService.dll
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\bin\WcfWindowsService.pdb
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\obj\Debug\WcfWindowsService.dll
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\obj\Debug\WcfWindowsService.pdb
+C:\Others\Others\WCFSamples\WindowsHosting\WcfWindowsService\obj\Debug\WcfWindowsService.csprojResolveAssemblyReference.cache

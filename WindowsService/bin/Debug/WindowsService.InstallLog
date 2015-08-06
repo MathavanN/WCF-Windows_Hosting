@@ -1,0 +1,107 @@
+﻿Installing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service TestWcfWindowsService...
+Service TestWcfWindowsService has been successfully installed.
+Creating EventLog source TestWcfWindowsService in log Application...
+Committing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestWcfWindowsService.
+Service TestWcfWindowsService is being removed from the system...
+Service TestWcfWindowsService was successfully removed from the system.
+Installing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service TestWcfWindowsService...
+Service TestWcfWindowsService has been successfully installed.
+Creating EventLog source TestWcfWindowsService in log Application...
+Committing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestWcfWindowsService.
+Service TestWcfWindowsService is being removed from the system...
+Service TestWcfWindowsService was successfully removed from the system.
+Installing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service TestWcfWindowsService...
+Service TestWcfWindowsService has been successfully installed.
+Creating EventLog source TestWcfWindowsService in log Application...
+Committing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestWcfWindowsService.
+Service TestWcfWindowsService is being removed from the system...
+Service TestWcfWindowsService was successfully removed from the system.
+Installing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service TestWcfWindowsService...
+Service TestWcfWindowsService has been successfully installed.
+Creating EventLog source TestWcfWindowsService in log Application...
+Committing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+Removing EventLog source TestWcfWindowsService.
+Service TestWcfWindowsService is being removed from the system...
+Service TestWcfWindowsService was successfully removed from the system.
+Installing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service TestWcfWindowsService...
+Service TestWcfWindowsService has been successfully installed.
+Creating EventLog source TestWcfWindowsService in log Application...
+Committing assembly 'C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Others\Others\WCFSamples\WindowsHosting\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 

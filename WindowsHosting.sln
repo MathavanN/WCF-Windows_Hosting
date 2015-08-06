@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40418.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfWindowsService", "WcfWindowsService\WcfWindowsService.csproj", "{B5A274F3-6B63-4280-AFD0-542DE3C0CD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{C65A7F40-CB19-4441-ABE1-18B546C3BB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceConsume", "WindowsServiceConsume\WindowsServiceConsume.csproj", "{486490A5-12AA-4EE0-83DF-BD0C49661CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A274F3-6B63-4280-AFD0-542DE3C0CD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A274F3-6B63-4280-AFD0-542DE3C0CD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A274F3-6B63-4280-AFD0-542DE3C0CD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A274F3-6B63-4280-AFD0-542DE3C0CD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65A7F40-CB19-4441-ABE1-18B546C3BB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65A7F40-CB19-4441-ABE1-18B546C3BB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65A7F40-CB19-4441-ABE1-18B546C3BB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65A7F40-CB19-4441-ABE1-18B546C3BB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486490A5-12AA-4EE0-83DF-BD0C49661CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486490A5-12AA-4EE0-83DF-BD0C49661CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486490A5-12AA-4EE0-83DF-BD0C49661CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486490A5-12AA-4EE0-83DF-BD0C49661CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
