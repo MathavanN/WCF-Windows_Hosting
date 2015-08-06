@@ -31,7 +31,7 @@ namespace WindowsServiceConsume
         {
             try
             {
-                Console.WriteLine("Self-Hosting a WCF Service in Console Application\n");
+                Console.WriteLine("Windows-Hosting a WCF Service in Console Application\n");
                 Console.WriteLine("-------------------------------------------------\n");
                 Console.WriteLine("Enter first integer number : ");
                 int number1 = Convert.ToInt32(Console.ReadLine());
